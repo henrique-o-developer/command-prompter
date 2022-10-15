@@ -1,0 +1,24 @@
+{
+  "name": "comand-prompter",
+  "version": "0.0.1",
+  "description": "an easy shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrique-o-developer/command-prompter.git"
+  },
+  "keywords": [
+    "terminal",
+    "shell",
+    "easy"
+  ],
+  "author": "henrique rosario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrique-o-developer/command-prompter/issues"
+  },
+  "homepage": "https://github.com/henrique-o-developer/command-prompter#readme"
+}
